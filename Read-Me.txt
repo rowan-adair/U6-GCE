@@ -1,0 +1,40 @@
+----------------------------------------------------------
+
+Thank you for taking the time to look at my current A-Level 
+Coursework.
+
+This version is not the final submission to CCEA so changes 
+will be made in the coming months.
+
+
+-------------------------INSTALL-------------------------
+
+Open Sql Server Management Studio 2017 and run the Sql file
+located in folder SQL
+
+ScriptLatest.sql
+
+
+Open the program solution located in AdairRA2EventsUnlimtied
+using Visual Studio.
+
+In the class "DatabaseConnection.cs" fill out the 
+line + "server = " with the Address of the Sql database 
+seen in the SSMS software.
+
+e.g + "server = 10.1.21.19,49171;"
+
+When this is done click start and the program will run in 
+debug mode.
+
+This is an alpha build. If you would like any documentation 
+feel free to contact me at : radair2842@gmail.com
+
+-----------------------------------------------------------
+
+Attahced also is the user guide
+
+-----------------------------------------------------------
+
+
+					
